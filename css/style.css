@@ -26,7 +26,12 @@ header{
     border: 1px solid black;
 }
 
-section.my-footer-section{
+.my-footer-section{
     background-color: #3a546d;
     height: 400px;
+}
+
+.my-dark-container{
+    background-color: #2c3e50;
+    height: 50%;
 }
