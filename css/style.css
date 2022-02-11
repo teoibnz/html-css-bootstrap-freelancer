@@ -2,3 +2,13 @@ header{
     background-color: #1abc9c;
     height: 500px;
 }
+
+.my-main-title{
+    text-align: center;
+}
+
+.my-bg-red-box{
+    background-color: red;
+    height: 200px;
+    border: 1px solid black;
+}
