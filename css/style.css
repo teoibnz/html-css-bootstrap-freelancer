@@ -1,6 +1,7 @@
 header{
     background-color: #1abc9c;
-    height: 500px;
+    height: 400px;
+    margin-bottom: 50px;
 }
 
 .my-main-title{
@@ -11,4 +12,21 @@ header{
     background-color: red;
     height: 200px;
     border: 1px solid black;
+}
+
+.my-about-section,
+.my-img-container,
+.my-contact-section {
+    margin-bottom: 50px;
+}
+
+.my-bg-red-small-box{
+    background-color: red;
+    height: 50px;
+    border: 1px solid black;
+}
+
+section.my-footer-section{
+    background-color: #3a546d;
+    height: 400px;
 }
